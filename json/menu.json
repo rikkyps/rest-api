@@ -1,0 +1,46 @@
+{
+  "menu" : [
+    {
+      "kategori" : "paket kombo",
+      "nama" : "Kombo Superstar",
+      "deskripsi" : "",
+      "harga" : "50000",
+      "gambar" : "kombo-superstar.png"
+    },
+    {
+      "kategori" : "paket kombo",
+      "nama" : "Super Family",
+      "deskripsi" : "",
+      "harga" : "50000",
+      "gambar" : "super-family.png"
+    },
+    {
+      "kategori" : "paket kombo",
+      "nama" : "Super Mantap",
+      "deskripsi" : "",
+      "harga" : "50000",
+      "gambar" : "super-mantap.png"
+    },    
+    {
+      "kategori" : "minuman",
+      "nama" : "Aqua",
+      "deskripsi" : "",
+      "harga" : "5000",
+      "gambar" : "aqua.jpg"
+    },
+    {
+      "kategori" : "minuman",
+      "nama" : "Ichi Ocha",
+      "deskripsi" : "",
+      "harga" : "5000",
+      "gambar" : "ichi-ocha.jpg"
+    },
+    {
+      "kategori" : "minuman",
+      "nama" : "Pepsi",
+      "deskripsi" : "",
+      "harga" : "5000",
+      "gambar" : "pepsi.jpg"
+    }
+  ]
+}
