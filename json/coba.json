@@ -1,0 +1,29 @@
+[
+  {
+    "nama" : "Riky",
+    "umur" : 24,
+    "nim" : "2013112008",
+    "lulus" : true,
+    "hobby" : [
+        "coding", "Gaming"
+    ],
+    "pembimbing" : {
+      "pembimbing1" : "Pertus Sokibi",
+      "pembimbing2" : "Mohammad Hatta"
+    }
+  },
+
+  {
+    "nama" : "Riky",
+    "umur" : 24,
+    "nim" : "2013112008",
+    "lulus" : true,
+    "hobby" : [
+        "coding", "Gaming"
+    ],
+    "pembimbing" : {
+      "pembimbing1" : "Pertus Sokibi",
+      "pembimbing2" : "Mohammad Hatta"
+    }
+  }
+]
